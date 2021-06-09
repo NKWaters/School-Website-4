@@ -1,0 +1,300 @@
+body {
+    text-align: center;
+    background-color: azure;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    cursor: pointer;
+    z-index: 10;
+    position: fixed;
+    background: yellow;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+}
+
+.links {
+    color: yellow;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: inherit;
+    font-size: 30px;
+    font-weight: bold;
+    display: inline;
+}
+
+.links:hover {
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+
+#GS {
+    height: 500px;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: algerian;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: algerian;
+}
+
+#PR {
+    border-radius: 50%;
+    width: 175px;
+}
+
+#GG {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#Name {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+kbd {
+    font-size: 30px;
+    color: white;
+    background-color: black;
+}
+
+#info1 {
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#info2 {
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#info3 {
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h3 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: algerian;
+}
+
+h6 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: algerian;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 24px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+
+#SB1 {
+    height: 400px;
+}
+
+
+h8 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#SB2 {
+    height: 400px;
+}
+
+#SB3 {
+    height: 400px;
+}
+
+h10 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 24px;
+    border-radius:10px;
+    margin-bottom: 15px;
+    width: 80%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+
+h3 {
+    font-weight: bold;
+}
+
+h6 {
+   font-weight: bold;
+}
+
+#ground {
+    height: 400px;
+    margin-left: 500px;
+}
+
+#cl {
+    height: 400px;
+    margin-left: 500px;
+}
+
+#chemistry {
+    height: 400px;
+    margin-left: 500px;
+}
+
+h11 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h12 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h13 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.environment_li {
+    margin-top: 13px;
+    width: 1000px;
+    margin-left: 250px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+h14 {
+    font-size: 50px;
+    font-family: algerian;
+    font-weight: bold;
+}
+
+h15 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h16 {
+    font-size: 50px;
+    font-weight: bold;
+}
+#WhatsNew {
+    margin-top: 300px;
+    padding-top: 50px;
+}
+
+#Contactus {
+    padding-top; 100000px;
+    margin: 300px;
+}
+
+#Alumni {
+    margin-top: 600px;
+    height: 500px;
+}
+
+#TG {
+    margin-left: 430px;
+}
+
+#Tiger {
+    font-size: 30px;
+    font-weight: bold;
+    cursor: hand;
+}
+
+h20 {
+    font-family: algerian;
+    font-size: 50px;
+}
+
+#Sundar {
+    height: 254px;
+    margin-left: 50px;
+}
+
+#VSS {
+    height: 400px;
+    margin-left: 300px;
+}
+
+#Birla {
+    height: 300px;
+    margin-left: 500px;
+}
+
+h22 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+b4 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+h24 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#Pichai {
+    margin-left: 550px;
+}
+
+h25 {
+    font-size: 170px;
+    font-family: algerian;
+}
